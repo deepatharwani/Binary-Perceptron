@@ -1,4 +1,4 @@
-A Basic Binary-Perceptron Algorithm:
+# A Basic Binary-Perceptron Algorithm:
 
 Implementation of a basic binary perceptron with the most basic version of the algorithm (without using pre-defined packages or libraries).
 We use the binary perceptron to train classifiers to discriminate between
